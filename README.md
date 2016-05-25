@@ -1,2 +1,4 @@
 # lav-hello-world
-My first repository
+
+Hi VG Team!
+    Best wishes to all, We will start to work on iot projects soon.
